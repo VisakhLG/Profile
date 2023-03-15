@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Visakh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"> I am a solutions-driven individual who is currently studying for my AWS Certified Cloud Practitioner. I have gained practical experience in cloud networking management, maintenance, and support of cloud computing applications. My experience in management has equipped me with skills in communication, stakeholder management, and prioritisation, while my experience in customer support has honed my problem-solving and customer service skills. I am a quick learner and eager to transition my skills to an entry-level role in the IT sector, specifically as a Junior Cloud Engineer / Software Developer, where I can apply my knowledge and make a meaningful impact.</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif" alt="coding" width="400">
 
 - 📫 How to reach me **visakhgopinath@gmail.com**
